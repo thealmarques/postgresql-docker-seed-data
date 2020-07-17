@@ -4,7 +4,7 @@ This project is a very simple example of how you can execute an image of Postgre
 
 ## How
 
-<img src="resources/architecture.png" width="30%" height="20%">
+<img src="resources/architecture.png" width="31%" height="21%">
 
 ## Steps
 
@@ -22,6 +22,7 @@ docker-compose up --build -d
 ```
 
 Now you can use any database admin tool to see the data created on the database.
+
 Configurations:
 * Host:Port = localhost:15432
 * Database_name = mydb
